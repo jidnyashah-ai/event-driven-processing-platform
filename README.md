@@ -11,6 +11,7 @@ To demonstrate event-driven microservices using Spring Boot and Kafka.
 
 
 Architecture:
+
 <img width="800" height="618" alt="image" src="https://github.com/user-attachments/assets/4586ab64-a4af-4e6c-9846-b50596485c56" />
 
 <img width="3000" height="3000" alt="image" src="https://github.com/user-attachments/assets/f7a4b363-6628-44f2-a484-2e784725da7f" />
